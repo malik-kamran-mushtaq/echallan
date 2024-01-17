@@ -1,4 +1,4 @@
-# echallan
+# EChallan
 ### E-Challan app
 1. This is a E-Challan app created for making traffic related work easy such as issuing a challan, paying a challan.
 2. It had both Police and User login facilities.
